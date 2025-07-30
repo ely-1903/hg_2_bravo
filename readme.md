@@ -4,15 +4,9 @@
 
 ### integrantes:
 
-** Charlie ---- Jose Daniel Romero **
+** Alfa  ----  Kevin J. Perez **
 
-** Delta ---- Nathali Mago **
+** Charli ---- Gregory Uztariz **
 
-** Echo ---- Gregory Uztariz **
 
-** Alfa ---- Leonardo Ambrosioni **
-
-** Bravo ---- Kevin J. Perez **
-
-** Bravo 1.2 ---- Ely Rojas **
 
